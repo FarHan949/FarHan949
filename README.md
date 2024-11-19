@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm Farhan, a passionate developer with a mind full of code . When I'm not busy building innovative solutions, you can find me geeking out over AI 🤖, web<br> design 🎨 📊. I'm driven by a desire to create technology that makes a real difference in people's lives. The more I work, the more I want to help others - it's a <br>virtuous cycle of awesomeness 🔄. On this GitHub profile, you'll find a collection of my projects, experiments, and collaborations. Take a look around, and let's build <br>something amazing together! 🚀.<br><br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I'm Farhan, a passionate developer with a mind full of code . When I'm not busy building innovative solutions, you can find me geeking out over AI 🤖, web design 🎨 📊. I'm driven by a desire to create technology that makes a real difference in people's lives. The more I work, the more I want to help others - it's a <br>virtuous cycle of awesomeness 🔄. On this GitHub profile, you'll find a collection of my projects, experiments, and collaborations. Take a look around, and let's build something amazing together! 🚀.<br><br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
