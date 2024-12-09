@@ -16,6 +16,6 @@ I'm Farhan, a passionate developer with a mind full of code . When I'm not busy 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FarHan949&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FarHan949&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
